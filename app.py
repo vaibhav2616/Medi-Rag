@@ -357,37 +357,69 @@ def apply_editorial_theme(mode: str) -> None:
             color: var(--mr-accent-text) !important;
         }}
 
-        /* Segmented control & pills (Streamlit 1.67.0 stButtonGroup + BaseWeb fallback) */
+        /* Segmented control, pills & all buttons (Streamlit 1.67.0 stButtonGroup + stBaseButton + BaseWeb) */
         [data-testid="stButtonGroup"],
         [data-baseweb="button-group"] {{
             background-color: transparent !important;
             border-color: var(--mr-border) !important;
         }}
+        [data-testid^="stBaseButton-"],
         [data-testid="stBaseButton-segmented_control"],
         [data-testid="stBaseButton-pills"],
+        [data-testid="stBaseButton-secondary"],
+        [data-testid="stButtonGroup"] button,
+        [data-testid="stButtonGroup"] [role="radio"],
+        [data-testid="stButtonGroup"] [role="option"],
         [data-baseweb="button-group"] button,
-        [data-testid="stPills"] button {{
+        [data-testid="stPills"] button,
+        .stButton > button,
+        [data-testid="stSidebar"] .stButton > button {{
             background-color: var(--mr-surface) !important;
             color: var(--mr-text) !important;
             border: 1px solid var(--mr-border) !important;
+            border-radius: 8px !important;
+            font-weight: 500 !important;
+            transition: border-color 0.15s ease, background-color 0.15s ease, color 0.15s ease;
         }}
-        [data-testid="stBaseButton-segmented_control"] *,
-        [data-testid="stBaseButton-pills"] *,
+        [data-testid^="stBaseButton-"] *,
+        [data-testid^="stBaseButton-"] [data-testid="stMarkdownContainer"] p,
+        [data-testid="stButtonGroup"] button *,
+        [data-testid="stButtonGroup"] button [data-testid="stMarkdownContainer"] p,
         [data-baseweb="button-group"] button *,
         [data-testid="stPills"] button *,
-        [data-testid="stPills"] span {{
+        [data-testid="stPills"] span,
+        .stButton > button *,
+        .stButton > button [data-testid="stMarkdownContainer"] p {{
             color: inherit !important;
         }}
+        [data-testid^="stBaseButton-"]:hover,
         [data-testid="stBaseButton-segmented_control"]:hover,
         [data-testid="stBaseButton-pills"]:hover,
+        [data-testid="stBaseButton-secondary"]:hover,
+        [data-testid="stButtonGroup"] button:hover,
         [data-baseweb="button-group"] button:hover,
-        [data-testid="stPills"] button:hover {{
+        [data-testid="stPills"] button:hover,
+        .stButton > button:hover,
+        [data-testid="stSidebar"] .stButton > button:hover {{
             background-color: var(--mr-accent-soft) !important;
             color: var(--mr-accent-text) !important;
             border-color: var(--mr-accent) !important;
         }}
+        [data-testid="stBaseButton-primary"],
+        button[kind="primary"] {{
+            background-color: var(--mr-accent) !important;
+            color: #FFFFFF !important;
+            border-color: var(--mr-accent) !important;
+        }}
+        [data-testid="stBaseButton-primary"] *,
+        button[kind="primary"] * {{
+            color: #FFFFFF !important;
+        }}
         [data-testid="stBaseButton-segmented_controlActive"],
         [data-testid="stBaseButton-pillsActive"],
+        [data-testid="stButtonGroup"] button[aria-checked="true"],
+        [data-testid="stButtonGroup"] button[aria-pressed="true"],
+        [data-testid="stButtonGroup"] button[aria-selected="true"],
         [data-baseweb="button-group"] button[aria-checked="true"],
         [data-baseweb="button-group"] button[aria-pressed="true"],
         [data-testid="stPills"] button[aria-selected="true"],
@@ -397,25 +429,9 @@ def apply_editorial_theme(mode: str) -> None:
             border-color: var(--mr-accent) !important;
         }}
         [data-testid="stBaseButton-segmented_controlActive"] *,
-        [data-testid="stBaseButton-pillsActive"] * {{
-            color: var(--mr-accent-text) !important;
-        }}
-
-        /* Buttons */
-        .stButton > button {{
-            background-color: var(--mr-surface) !important;
-            color: var(--mr-text) !important;
-            border: 1px solid var(--mr-border) !important;
-            border-radius: 8px !important;
-            font-weight: 500 !important;
-            transition: border-color 0.15s ease, background-color 0.15s ease;
-        }}
-        .stButton > button * {{
-            color: inherit !important;
-        }}
-        .stButton > button:hover {{
-            border-color: var(--mr-accent) !important;
-            background-color: var(--mr-accent-soft) !important;
+        [data-testid="stBaseButton-segmented_controlActive"] [data-testid="stMarkdownContainer"] p,
+        [data-testid="stBaseButton-pillsActive"] *,
+        [data-testid="stBaseButton-pillsActive"] [data-testid="stMarkdownContainer"] p {{
             color: var(--mr-accent-text) !important;
         }}
 
