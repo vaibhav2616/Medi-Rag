@@ -165,12 +165,19 @@ def apply_editorial_theme(mode: str) -> None:
             font-family: 'JetBrains Mono', monospace !important;
         }}
 
-        /* Cards, metrics, and bordered containers */
-        [data-testid="stVerticalBlockBorderWrapper"],
-        [data-testid="stExpander"] {{
+        /* Cards, metrics, expanders & bordered containers */
+        [class*="st-key-mr_card_"],
+        [class*="st-key-mr_note_"],
+        [class*="st-key-mr_doc_"],
+        [data-testid="stExpander"],
+        [data-testid="stExpander"] details {{
             background-color: var(--mr-surface) !important;
             border-color: var(--mr-border) !important;
             border-radius: 12px !important;
+        }}
+        [data-testid="stExpanderDetails"] {{
+            background-color: var(--mr-surface) !important;
+            color: var(--mr-text) !important;
         }}
 
         [data-testid="stExpander"] summary,
@@ -183,6 +190,24 @@ def apply_editorial_theme(mode: str) -> None:
         [data-testid="stExpander"] svg {{
             color: var(--mr-text) !important;
             fill: var(--mr-text) !important;
+        }}
+
+        /* Alerts / Warnings (out-of-scope & info banners) */
+        [data-testid="stAlertContainer"] {{
+            background-color: var(--mr-warn-bg) !important;
+            border: 1px solid var(--mr-warn-border) !important;
+            color: var(--mr-warn-text) !important;
+            border-radius: 10px !important;
+        }}
+        [data-testid="stAlertContainer"] *,
+        [data-testid="stAlertContent"],
+        [data-testid="stAlertContent"] *,
+        [data-testid="stAlertContainer"] [data-testid="stMarkdownContainer"] p {{
+            color: var(--mr-warn-text) !important;
+        }}
+        [data-testid="stAlertContainer"] svg {{
+            color: var(--mr-warn-text) !important;
+            fill: currentColor !important;
         }}
 
         /* Prevent double-nested border inside st.container(border=True) > st.metric */
@@ -223,16 +248,17 @@ def apply_editorial_theme(mode: str) -> None:
             fill: var(--mr-accent-text) !important;
         }}
 
-        /* Inputs, password eye-toggle & selects */
-        [data-baseweb="input"],
-        [data-baseweb="base-input"],
+        /* Inputs, password eye-toggle & selects (Streamlit 1.67.0 React Aria + BaseWeb fallback) */
         [data-testid="stTextInputRootElement"],
-        [data-testid="stTextInputRootElement"] > div {{
+        [data-testid="stTextInputRootElement"] > div,
+        [data-baseweb="input"],
+        [data-baseweb="base-input"] {{
             background-color: var(--mr-surface) !important;
             color: var(--mr-text) !important;
             border-color: var(--mr-border) !important;
             border-radius: 8px !important;
         }}
+        [data-testid="stTextInputField"],
         [data-testid="stTextInputRootElement"] input,
         [data-baseweb="input"] input,
         .stTextInput input {{
@@ -241,6 +267,7 @@ def apply_editorial_theme(mode: str) -> None:
             caret-color: var(--mr-text) !important;
             -webkit-text-fill-color: var(--mr-text) !important;
         }}
+        [data-testid="stTextInputField"]::placeholder,
         [data-testid="stTextInputRootElement"] input::placeholder,
         [data-baseweb="input"] input::placeholder,
         .stTextInput input::placeholder {{
@@ -249,22 +276,26 @@ def apply_editorial_theme(mode: str) -> None:
             opacity: 1 !important;
         }}
         [data-testid="stTextInputRootElement"] button,
+        [data-testid="stTextInput"] button,
         [data-baseweb="input"] button {{
             background-color: transparent !important;
             color: var(--mr-muted) !important;
             border: none !important;
         }}
         [data-testid="stTextInputRootElement"] button:hover,
+        [data-testid="stTextInput"] button:hover,
         [data-baseweb="input"] button:hover {{
             background-color: var(--mr-surface-alt) !important;
             color: var(--mr-text) !important;
         }}
         [data-testid="stTextInputRootElement"] button svg,
+        [data-testid="stTextInput"] button svg,
         [data-baseweb="input"] button svg {{
             color: inherit !important;
             fill: currentColor !important;
         }}
 
+        [data-testid="stSelectbox"] > div > div,
         [data-baseweb="select"] > div,
         .stSelectbox div[data-baseweb="select"] > div {{
             background-color: var(--mr-surface) !important;
@@ -272,33 +303,52 @@ def apply_editorial_theme(mode: str) -> None:
             border-color: var(--mr-border) !important;
             border-radius: 8px !important;
         }}
+        [data-testid="stSelectbox"] input,
+        [data-testid="stSelectbox"] span,
+        [data-testid="stSelectbox"] div,
         [data-baseweb="select"] span,
         [data-baseweb="select"] div,
         [data-baseweb="select"] input,
         .stSelectbox div[data-baseweb="select"] span {{
             color: var(--mr-text) !important;
+            -webkit-text-fill-color: var(--mr-text) !important;
         }}
+        [data-testid="stSelectbox"] button {{
+            background-color: transparent !important;
+            color: var(--mr-text) !important;
+        }}
+        [data-testid="stSelectbox"] svg,
         [data-baseweb="select"] svg,
         .stSelectbox div[data-baseweb="select"] svg {{
             color: var(--mr-text) !important;
-            fill: var(--mr-text) !important;
+            fill: currentColor !important;
         }}
 
-        /* Selectbox dropdown popover portal */
+        /* Selectbox dropdown popover portal (Streamlit 1.67.0 stSelectboxVirtualDropdown + BaseWeb fallback) */
+        [data-testid="stSelectboxVirtualDropdown"],
+        [data-testid="stSelectboxVirtualDropdown"] > div,
         [data-baseweb="popover"],
         [data-baseweb="popover"] > div,
         [data-baseweb="menu"],
         [role="listbox"] {{
             background-color: var(--mr-surface) !important;
             color: var(--mr-text) !important;
-            border: 1px solid var(--mr-border) !important;
+            border-color: var(--mr-border) !important;
             border-radius: 8px !important;
         }}
+        [data-testid="stSelectboxVirtualDropdown"] {{
+            border: 1px solid var(--mr-border) !important;
+        }}
+        [data-testid="stSelectboxVirtualDropdown"] [role="option"],
         [role="option"],
         [data-baseweb="menu"] li {{
             background-color: var(--mr-surface) !important;
             color: var(--mr-text) !important;
         }}
+        [data-testid="stSelectboxVirtualDropdown"] [role="option"]:hover,
+        [data-testid="stSelectboxVirtualDropdown"] [role="option"][data-hovered="true"],
+        [data-testid="stSelectboxVirtualDropdown"] [role="option"][data-focused="true"],
+        [data-testid="stSelectboxVirtualDropdown"] [role="option"][aria-selected="true"],
         [role="option"]:hover,
         [role="option"][aria-selected="true"],
         [data-baseweb="menu"] li:hover,
@@ -307,40 +357,41 @@ def apply_editorial_theme(mode: str) -> None:
             color: var(--mr-accent-text) !important;
         }}
 
-        /* Segmented control & pills */
+        /* Segmented control & pills (Streamlit 1.67.0 stButtonGroup + BaseWeb fallback) */
+        [data-testid="stButtonGroup"],
         [data-baseweb="button-group"] {{
             background-color: transparent !important;
             border-color: var(--mr-border) !important;
         }}
-        [data-baseweb="button-group"] button,
         [data-testid="stBaseButton-segmented_control"],
-        [data-testid="stPills"] button,
-        [data-testid="stBaseButton-pills"] {{
+        [data-testid="stBaseButton-pills"],
+        [data-baseweb="button-group"] button,
+        [data-testid="stPills"] button {{
             background-color: var(--mr-surface) !important;
             color: var(--mr-text) !important;
             border: 1px solid var(--mr-border) !important;
         }}
-        [data-baseweb="button-group"] button *,
         [data-testid="stBaseButton-segmented_control"] *,
+        [data-testid="stBaseButton-pills"] *,
+        [data-baseweb="button-group"] button *,
         [data-testid="stPills"] button *,
-        [data-testid="stPills"] span,
-        [data-testid="stBaseButton-pills"] * {{
+        [data-testid="stPills"] span {{
             color: inherit !important;
         }}
-        [data-baseweb="button-group"] button:hover,
         [data-testid="stBaseButton-segmented_control"]:hover,
-        [data-testid="stPills"] button:hover,
-        [data-testid="stBaseButton-pills"]:hover {{
+        [data-testid="stBaseButton-pills"]:hover,
+        [data-baseweb="button-group"] button:hover,
+        [data-testid="stPills"] button:hover {{
             background-color: var(--mr-accent-soft) !important;
             color: var(--mr-accent-text) !important;
             border-color: var(--mr-accent) !important;
         }}
+        [data-testid="stBaseButton-segmented_controlActive"],
+        [data-testid="stBaseButton-pillsActive"],
         [data-baseweb="button-group"] button[aria-checked="true"],
         [data-baseweb="button-group"] button[aria-pressed="true"],
-        [data-testid="stBaseButton-segmented_controlActive"],
         [data-testid="stPills"] button[aria-selected="true"],
-        [data-testid="stPills"] button[aria-pressed="true"],
-        [data-testid="stBaseButton-pillsActive"] {{
+        [data-testid="stPills"] button[aria-pressed="true"] {{
             background-color: var(--mr-accent-soft) !important;
             color: var(--mr-accent-text) !important;
             border-color: var(--mr-accent) !important;
@@ -735,7 +786,7 @@ st.html(
 
 col1, col2, col3 = st.columns(3)
 with col1:
-    with st.container(border=True):
+    with st.container(border=True, key="mr_card_engine"):
         if llm.__class__.__name__ == "MockClinicalLLM":
             engine_label = "Local Offline"
             engine_delta = "Zero API cost"
@@ -744,10 +795,10 @@ with col1:
             engine_delta = model_option
         st.metric("Active engine", engine_label, delta=engine_delta)
 with col2:
-    with st.container(border=True):
+    with st.container(border=True, key="mr_card_chunks"):
         st.metric("Vector store chunks", f"{chunk_count:,}", delta="NIH · CDC · NIAID")
 with col3:
-    with st.container(border=True):
+    with st.container(border=True, key="mr_card_policy"):
         st.metric("Grounding policy", "Strict RAG", delta="Zero extrapolation")
 
 # Suggestion chips when chat is empty
@@ -767,7 +818,7 @@ if st.session_state.sample_prompt:
 if not st.session_state.messages and not prompt:
     empty_state_slot = st.empty()
     with empty_state_slot.container():
-        with st.container(border=True):
+        with st.container(border=True, key="mr_note_grounding"):
             st.markdown(
                 "**Strict Grounding Note:** MediRAG only answers topics present in its clinical vector store "
                 "(2,560+ NIH/CDC MedQuAD records + foundational biology entries like *virus*, *bacteria*, *infection*, "
@@ -837,7 +888,7 @@ if prompt:
             if context_docs:
                 with st.expander("View retrieved clinical reference passages", icon=":material/article:"):
                     for idx, doc in enumerate(context_docs, 1):
-                        with st.container(border=True):
+                        with st.container(border=True, key=f"mr_doc_{idx}_{len(st.session_state.messages)}"):
                             st.caption(f"Document #{idx} · Source: {doc.metadata.get('source', 'NIH')}")
                             st.markdown(doc.page_content)
 

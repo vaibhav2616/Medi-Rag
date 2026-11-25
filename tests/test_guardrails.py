@@ -548,9 +548,28 @@ def test_streamlit_app_ui_smoke_and_theme_toggle():
     at = AppTest.from_file(app_path, default_timeout=60).run()
     assert not at.exception, f"AppTest raised exception on initial load: {at.exception}"
 
+    light_html = "\n".join(el.value for el in at.html)
+    assert "#EBF2EF" in light_html and "#2D5A4C" in light_html
+
     # Toggle Dark theme
     at.segmented_control(key="theme_mode").set_value("Dark").run()
     assert not at.exception, f"AppTest raised exception on Dark theme toggle: {at.exception}"
+
+    dark_html = "\n".join(el.value for el in at.html)
+    for expected in (
+        "#121413",
+        "#1A1D1B",
+        "#1E2B26",
+        "#6EE7B7",
+        "stSelectboxVirtualDropdown",
+        "stButtonGroup",
+        "stBaseButton-pills",
+        "stAlertContainer",
+        "st-key-mr_card_",
+        "stMetricDelta",
+        "stChatInputSubmitButton",
+    ):
+        assert expected in dark_html, f"Missing Dark mode CSS selector/token: {expected}"
 
     # Click sidebar quick test query 'What is a virus?' and verify empty state clears + thinking time renders
     at.button(key="btn_What is a virus?").click().run()
