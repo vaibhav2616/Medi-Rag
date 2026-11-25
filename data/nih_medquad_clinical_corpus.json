@@ -1,0 +1,450 @@
+[
+  {
+    "Focus": "High Blood Pressure (Hypertension)",
+    "QType": "symptoms",
+    "Source": "NHLBI",
+    "Question": "What are the symptoms of High Blood Pressure (Hypertension)?",
+    "Answer": "High blood pressure (hypertension) is known as a 'silent killer' because it typically produces no warning signs or symptoms for years, even when blood pressure readings reach dangerously high levels. Most individuals with hypertension feel entirely normal. However, during a hypertensive crisis—a medical emergency where blood pressure spikes to 180/120 mm Hg or higher—patients may experience acute symptoms. These severe symptoms include severe throbbing headaches, shortness of breath (dyspnea), nosebleeds (epistaxis), severe anxiety, dizziness, lightheadedness, chest pain, irregular heartbeat (palpitations), and vision changes such as blurred vision or temporary vision loss. Because symptoms are usually absent until life-threatening organ damage begins, regular blood pressure screening is essential."
+  },
+  {
+    "Focus": "High Blood Pressure (Hypertension)",
+    "QType": "treatment",
+    "Source": "NHLBI",
+    "Question": "How is High Blood Pressure (Hypertension) treated?",
+    "Answer": "Treatment for high blood pressure (hypertension) combines lifestyle changes and prescription antihypertensive medications to achieve target blood pressure below 130/80 mm Hg. Core lifestyle interventions include: 1) Following the DASH (Dietary Approaches to Stop Hypertension) diet high in fruits, vegetables, whole grains, and low-fat dairy; 2) Limiting dietary sodium intake to under 1,500–2,300 mg per day; 3) Engaging in at least 150 minutes of moderate aerobic exercise weekly; 4) Maintaining a healthy weight (BMI 18.5–24.9); 5) Quitting smoking; and 6) Moderating alcohol consumption. First-line medications include Angiotensin-Converting Enzyme (ACE) inhibitors (lisinopril, enalapril), Angiotensin II Receptor Blockers (ARBs, losartan, valsartan), Calcium Channel Blockers (CCBs, amlodipine), and Thiazide Diuretics (hydrochlorothiazide, chlorthalidone). Many patients require two or more medication classes in combination for effective control."
+  },
+  {
+    "Focus": "High Blood Pressure (Hypertension)",
+    "QType": "causes",
+    "Source": "NHLBI",
+    "Question": "What causes High Blood Pressure (Hypertension)?",
+    "Answer": "High blood pressure is classified into primary (essential) hypertension and secondary hypertension. Primary hypertension develops gradually over decades without a single identifiable cause; it is driven by aging (arterial stiffening), genetic predisposition, high dietary sodium, sedentary lifestyle, obesity, chronic stress, and tobacco use. Secondary hypertension is triggered directly by an identifiable underlying medical disease or medication. Major secondary causes include chronic kidney disease, renal artery stenosis, obstructive sleep apnea, adrenal gland tumors (primary hyperaldosteronism, pheochromocytoma), thyroid disorders, and medications such as nonsteroidal anti-inflammatory drugs (NSAIDs), oral contraceptives, and oral decongestants."
+  },
+  {
+    "Focus": "High Blood Pressure (Hypertension)",
+    "QType": "prevention",
+    "Source": "CDC",
+    "Question": "How can High Blood Pressure (Hypertension) be prevented?",
+    "Answer": "Hypertension prevention relies on heart-healthy habits and regular blood pressure monitoring. Recommendations include: eating a nutrient-rich DASH diet low in saturated fats and sodium; participating in regular aerobic exercise like brisk walking or swimming; maintaining an optimal body weight; eliminating tobacco smoke; moderating alcohol intake; managing daily stress through relaxation techniques; and checking blood pressure at home or during annual medical checkups."
+  },
+  {
+    "Focus": "Type 2 Diabetes (Diabetes Mellitus)",
+    "QType": "symptoms",
+    "Source": "NIDDK",
+    "Question": "What are the symptoms of Type 2 Diabetes?",
+    "Answer": "Symptoms of type 2 diabetes often develop insidiously over several years and may be mild enough to go unnoticed. These symptoms stem from chronic high blood sugar (hyperglycemia). Common clinical symptoms include: 1) Increased thirst (polydipsia) and frequent urination (polyuria), particularly at night; 2) Increased hunger (polyphagia) despite eating; 3) Unexplained weight loss; 4) Persistent fatigue and lack of energy; 5) Blurred vision due to fluid shifts in the lens of the eye; 6) Slow-healing cuts, sores, or recurrent skin and yeast infections; 7) Tingling, numbness, or burning pain in the hands and feet (peripheral neuropathy); and 8) Acanthosis nigricans, characterized by patches of velvety, darkened skin in the neck, armpits, or groin. Additionally, diabetic individuals must recognize acute low blood sugar (hypoglycemia), characterized by shakiness, sweating, intense hunger, confusion, and lightheadedness."
+  },
+  {
+    "Focus": "Type 2 Diabetes (Diabetes Mellitus)",
+    "QType": "treatment",
+    "Source": "NIDDK",
+    "Question": "What are the treatments for Type 2 Diabetes?",
+    "Answer": "Managing type 2 diabetes requires glycemic control through lifestyle therapy, blood glucose monitoring, and medications. Lifestyle management involves a personalized low-glycemic meal plan, carbohydrate counting, at least 150 minutes of weekly aerobic exercise, and weight loss of 5–10% of total body weight. Metformin is the standard first-line oral medication that decreases hepatic glucose production and improves insulin sensitivity. Additional therapies include GLP-1 receptor agonists (semaglutide, liraglutide) which promote weight loss and cardiovascular protection, SGLT2 inhibitors (empagliflozin, dapagliflozin) that enhance urinary glucose excretion and protect kidney/heart function, DPP-4 inhibitors (sitagliptin), sulfonylureas (glipizide), and subcutaneous insulin therapy when target HbA1c (<7.0%) is not attained."
+  },
+  {
+    "Focus": "Type 2 Diabetes (Diabetes Mellitus)",
+    "QType": "causes",
+    "Source": "NIDDK",
+    "Question": "What causes Type 2 Diabetes?",
+    "Answer": "Type 2 diabetes develops primarily due to insulin resistance, a condition where muscle, fat, and liver cells do not respond effectively to insulin, coupled with progressive beta-cell dysfunction in the pancreas where insufficient insulin is produced to overcome resistance. Major risk factors include overweight and obesity (especially abdominal/visceral adiposity), physical inactivity, family history and genetics, age over 45 years, history of gestational diabetes, polycystic ovary syndrome (PCOS), and high-risk race/ethnicity (African American, Hispanic/Latino, American Indian, Asian American)."
+  },
+  {
+    "Focus": "Type 2 Diabetes (Diabetes Mellitus)",
+    "QType": "prevention",
+    "Source": "CDC",
+    "Question": "How can Type 2 Diabetes be prevented?",
+    "Answer": "Type 2 diabetes can be prevented or significantly delayed through evidence-based lifestyle changes as shown in the Diabetes Prevention Program (DPP). Key steps include losing 5% to 7% of starting body weight, engaging in at least 30 minutes of moderate aerobic exercise 5 days a week (150 minutes weekly), eating smaller portion sizes, replacing refined carbohydrates and sweetened beverages with whole grains, vegetables, and lean proteins, and undergoing regular screening of fasting blood glucose or HbA1c."
+  },
+  {
+    "Focus": "Type 1 Diabetes",
+    "QType": "symptoms",
+    "Source": "NIDDK",
+    "Question": "What are the symptoms of Type 1 Diabetes?",
+    "Answer": "Type 1 diabetes symptoms typically present rapidly over days or weeks, frequently in children, teens, or young adults. Cardinal signs of acute hyperglycemia (elevated blood glucose) include excessive thirst (polydipsia), heavy and frequent urination (polyuria), bedwetting in children who previously did not wet the bed, extreme hunger (polyphagia), rapid unintended weight loss despite eating, severe fatigue and weakness, blurred vision, and mood changes. Warning signs of low blood sugar (hypoglycemia) from insulin administration include tremors, diaphoresis, palpitations, and confusion. Without prompt medical attention, patients can develop diabetic ketoacidosis (DKA), a life-threatening acute complication presenting with nausea, vomiting, abdominal pain, fruity acetone-scented breath, rapid deep breathing (Kussmaul breathing), confusion, and coma."
+  },
+  {
+    "Focus": "Type 1 Diabetes",
+    "QType": "treatment",
+    "Source": "NIDDK",
+    "Question": "How is Type 1 Diabetes treated?",
+    "Answer": "Because type 1 diabetes is characterized by absolute insulin deficiency, lifelong daily insulin therapy is essential for survival. Insulin is administered via multiple daily injections (MDIs) combining long-acting basal insulin (glargine, degludec) and rapid-acting bolus mealtime insulin (lispro, aspart), or via continuous subcutaneous insulin infusion (insulin pump) often paired with continuous glucose monitors (CGMs) in automated hybrid closed-loop systems. Management also requires frequent carbohydrate counting, blood sugar tracking, regular physical activity, and emergency preparedness with glucagon for severe hypoglycemia."
+  },
+  {
+    "Focus": "Asthma (Bronchial Asthma)",
+    "QType": "symptoms",
+    "Source": "NHLBI",
+    "Question": "What are the symptoms of Asthma?",
+    "Answer": "Asthma is a chronic inflammatory disorder of the airways that causes recurrent episodes of airflow obstruction. Core symptoms include: 1) Wheezing, a high-pitched musical whistling sound made while exhaling; 2) Shortness of breath (dyspnea) or feeling breathless; 3) Chest tightness, squeezing, or dull chest discomfort; and 4) Chronic coughing, which often worsens at night, during early mornings, or after exercise. Symptoms vary over time in frequency and intensity, and acute exacerbations (asthma attacks) can be triggered by respiratory infections, environmental allergens (pollen, dust mites, pet dander), tobacco smoke, cold air, chemical fumes, and intense physical exertion."
+  },
+  {
+    "Focus": "Asthma (Bronchial Asthma)",
+    "QType": "treatment",
+    "Source": "NHLBI",
+    "Question": "What are the treatments for Asthma?",
+    "Answer": "Asthma management utilizes two main medication categories: long-term controllers to suppress underlying inflammation and quick-relief rescue medications to reverse acute bronchospasm. First-line daily controller medications are Inhaled Corticosteroids (ICS, such as fluticasone, budesonide), often combined with Long-Acting Beta2-Agonists (LABA, such as formoterol, salmeterol). Other controllers include Leukotriene Receptor Antagonists (montelukast) and targeted biologic therapies (omalizumab, dupilumab) for severe eosinophilic or allergic asthma. Quick-relief rescue inhalers contain Short-Acting Beta2-Agonists (SABA, such as albuterol) or an ICS-formoterol combination to rapidly dilate airways during acute asthma attacks."
+  },
+  {
+    "Focus": "Asthma (Bronchial Asthma)",
+    "QType": "causes",
+    "Source": "NHLBI",
+    "Question": "What causes Asthma?",
+    "Answer": "The exact cause of asthma is not completely understood, but it arises from an interaction between genetic predisposition and environmental exposures. Key factors include a personal or family history of atopic conditions (allergies, eczema, allergic rhinitis), childhood respiratory viral infections (RSV, rhinovirus), early exposure to airborne allergens, air pollution, and occupational exposures to chemical vapors or organic dusts."
+  },
+  {
+    "Focus": "Coronary Artery Disease (CAD / Heart Disease)",
+    "QType": "symptoms",
+    "Source": "NHLBI",
+    "Question": "What are the symptoms of Coronary Artery Disease (CAD)?",
+    "Answer": "The hallmark symptom of coronary artery disease is angina pectoris, described as chest pain, tightness, pressure, aching, burning, or a squeezing sensation located behind the breastbone. Angina is typically precipitated by physical exertion, cold temperatures, or emotional distress, and resolves with rest. Angina discomfort may radiate to the left shoulder, arms, neck, jaw, back, or upper abdomen. Associated symptoms include shortness of breath, profound fatigue, dizziness, nausea, cold sweats, and heart palpitations. In some individuals, particularly women, elderly patients, and diabetics, CAD may be silent or present atypically as unexplained shortness of breath, back pain, or fatigue before manifesting as an acute myocardial infarction (heart attack)."
+  },
+  {
+    "Focus": "Coronary Artery Disease (CAD / Heart Disease)",
+    "QType": "treatment",
+    "Source": "NHLBI",
+    "Question": "How is Coronary Artery Disease treated?",
+    "Answer": "CAD management incorporates therapeutic lifestyle modifications, cardioprotective medications, and invasive revascularization procedures. Lifestyle modifications include smoking cessation, a Mediterranean-style or DASH heart-healthy diet, regular physical exercise, and stress reduction. Pharmacological therapy includes: 1) Antiplatelet agents (low-dose aspirin, clopidogrel) to prevent arterial thrombosis; 2) Statins (atorvastatin, rosuvastatin) to lower LDL cholesterol and stabilize atherosclerotic plaques; 3) Beta-blockers (metoprolol, carvedilol) to reduce myocardial oxygen demand and lower blood pressure; 4) ACE inhibitors or ARBs; and 5) Sublingual nitroglycerin for acute angina relief. In severe coronary obstruction, percutaneous coronary intervention (PCI with drug-eluting stenting) or coronary artery bypass graft (CABG) surgery is performed to restore myocardial blood flow."
+  },
+  {
+    "Focus": "Coronary Artery Disease (CAD / Heart Disease)",
+    "QType": "causes",
+    "Source": "CDC",
+    "Question": "What causes Coronary Artery Disease?",
+    "Answer": "Coronary artery disease is caused by atherosclerosis, a progressive inflammatory condition where cholesterol, fatty deposits, cellular waste, calcium, and fibrin form plaques inside the coronary arteries supplying oxygen to heart muscle. Risk factors promoting plaque buildup include high LDL cholesterol, low HDL cholesterol, untreated hypertension, cigarette smoking, diabetes mellitus, sedentary lifestyle, obesity, unhealthy diet high in saturated and trans fats, and family history of premature heart disease."
+  },
+  {
+    "Focus": "Heart Failure (Congestive Heart Failure)",
+    "QType": "symptoms",
+    "Source": "NHLBI",
+    "Question": "What are the symptoms of Heart Failure?",
+    "Answer": "Heart failure occurs when the heart muscle cannot pump blood efficiently to meet the metabolic demands of the body. Cardinal symptoms include: 1) Shortness of breath (dyspnea) during activity or even at rest; 2) Orthopnea (breathlessness when lying flat in bed, requiring multiple pillows to elevate the head); 3) Paroxysmal nocturnal dyspnea (waking up suddenly gasping for air); 4) Peripheral edema, causing swelling in the feet, ankles, lower legs, and abdomen (ascites); 5) Persistent fatigue and muscle weakness; 6) Rapid unintended weight gain from fluid retention (e.g., >2-3 pounds in a single day); and 7) A persistent cough or wheezing producing white or pink blood-tinged phlegm."
+  },
+  {
+    "Focus": "Heart Failure (Congestive Heart Failure)",
+    "QType": "treatment",
+    "Source": "NHLBI",
+    "Question": "How is Heart Failure treated?",
+    "Answer": "Heart failure with reduced ejection fraction (HFrEF) is managed with guideline-directed medical therapy (GDMT) consisting of four foundational pillars: 1) Angiotensin receptor-neprilysin inhibitors (ARNI, sacubitril/valsartan) or ACE inhibitors/ARBs; 2) Evidence-based beta-blockers (carvedilol, metoprolol succinate, bisoprolol); 3) Mineralocorticoid receptor antagonists (MRA, spironolactone, eplerenone); and 4) SGLT2 inhibitors (dapagliflozin, empagliflozin). Loop diuretics (furosemide, bumetanide) are added to relieve fluid congestion and swelling. Device interventions include implantable cardioverter-defibrillators (ICD) and cardiac resynchronization therapy (CRT). Patients must adhere to a strict low-sodium diet (<2,000 mg/day) and daily weight monitoring."
+  },
+  {
+    "Focus": "Stroke and TIA (Cerebrovascular Accident)",
+    "QType": "symptoms",
+    "Source": "NINDS",
+    "Question": "What are the symptoms of a Stroke?",
+    "Answer": "A stroke is a medical emergency requiring immediate 911 activation. Symptoms occur suddenly and are recognized using the FAST acronym: 1) Face Drooping: One side of the face droops or is numb, producing an uneven smile; 2) Arm Weakness: One arm drifts downward when both are raised, or feels weak and numb; 3) Speech Difficulty: Speech is slurred, garbled, or the person cannot speak or understand words; and 4) Time to Call 911: Emergency services must be summoned immediately. Other acute symptoms include sudden severe headache with no known cause ('thunderclap' headache), sudden loss of balance, dizziness, incoordination, and sudden visual loss or blurring in one or both eyes. A transient ischemic attack (TIA or 'mini-stroke') exhibits the same symptoms but resolves in minutes to hours and is a major warning of an impending full stroke."
+  },
+  {
+    "Focus": "Stroke and TIA (Cerebrovascular Accident)",
+    "QType": "treatment",
+    "Source": "NINDS",
+    "Question": "How is a Stroke treated?",
+    "Answer": "Emergency stroke treatment depends on whether the stroke is ischemic (blocked artery, ~87% of cases) or hemorrhagic (ruptured blood vessel). For acute ischemic stroke, intravenous thrombolytic therapy with tissue plasminogen activator (tPA / alteplase or tenecteplase) must be administered within 3 to 4.5 hours of symptom onset to dissolve the blood clot and restore cerebral perfusion. In large vessel occlusions, mechanical endovascular thrombectomy is performed within up to 24 hours to physically retrieve the clot. Long-term secondary prevention includes antiplatelet agents (aspirin, clopidogrel), anticoagulants for atrial fibrillation, high-intensity statin therapy, aggressive blood pressure control, and carotid endarterectomy if severe carotid stenosis is present."
+  },
+  {
+    "Focus": "Glaucoma",
+    "QType": "symptoms",
+    "Source": "NEI",
+    "Question": "What are the symptoms of Glaucoma?",
+    "Answer": "Primary open-angle glaucoma, the most prevalent form, develops silently without pain or noticeable early symptoms. Over time, patchy blind spots gradually appear in peripheral (side) vision. In advanced stages, central vision is affected, resulting in severe 'tunnel vision'. Conversely, acute angle-closure glaucoma is a medical emergency with sudden, severe symptoms: extreme eye pain, intense headache, nausea and vomiting, rainbow halos around lights, sudden blurred vision, and pronounced eye redness. Immediate medical intervention is necessary to prevent permanent blindness."
+  },
+  {
+    "Focus": "Glaucoma",
+    "QType": "treatment",
+    "Source": "NEI",
+    "Question": "How is Glaucoma treated?",
+    "Answer": "Glaucoma treatments focus on lowering intraocular pressure (IOP) to halt or slow damage to the optic nerve. Standard first-line treatments include prescription ophthalmic drops: prostaglandin analogs (latanoprost, bimatoprost) to enhance aqueous humor drainage, beta-blockers (timolol) to reduce fluid production, and alpha-adrenergic agonists (brimonidine). Selective laser trabeculoplasty (SLT) is widely used to improve outflow. For refractory cases, surgical options include trabeculectomy, glaucoma drainage implants (tubes), or minimally invasive glaucoma surgery (MIGS)."
+  },
+  {
+    "Focus": "Celiac Disease",
+    "QType": "symptoms",
+    "Source": "NIDDK",
+    "Question": "What are the symptoms of Celiac Disease?",
+    "Answer": "Celiac disease is an autoimmune disorder triggered by consuming gluten (a protein in wheat, barley, and rye) that causes immune damage to the small intestine's mucosal lining. Gastrointestinal symptoms include chronic diarrhea, abdominal pain and cramping, bloating, excess gas, pale fatty foul-smelling stools (steatorrhea), nausea, vomiting, and unintended weight loss. Extraintestinal symptoms stemming from malabsorption include chronic fatigue, refractory iron-deficiency anemia, bone density loss (osteopenia/osteoporosis), mouth ulcers (aphthous stomatitis), peripheral neuropathy, elevated liver enzymes, and dermatitis herpetiformis (an intensely itchy, blistering skin rash on the elbows, knees, buttocks, or scalp)."
+  },
+  {
+    "Focus": "Celiac Disease",
+    "QType": "treatment",
+    "Source": "NIDDK",
+    "Question": "How is Celiac Disease treated?",
+    "Answer": "The sole proven medical treatment for celiac disease is strict, lifelong adherence to a 100% gluten-free diet. This requires eliminating all foods, beverages, sauces, processed additives, and medications containing wheat, rye, barley, malt, or triticale. Consuming even trace amounts of gluten can reactivate autoimmune intestinal inflammation. Patients are advised to consult a clinical dietitian specialized in gluten-free living, monitor nutritional deficiencies (iron, calcium, vitamin D, B12), and undergo repeat serological testing (anti-tTG IgA) to monitor mucosal healing."
+  },
+  {
+    "Focus": "Migraine",
+    "QType": "symptoms",
+    "Source": "NINDS",
+    "Question": "What are the symptoms of Migraine?",
+    "Answer": "A migraine is a neurological disorder presenting with moderate-to-severe throbbing or pulsating head pain, characteristically unilateral (affecting one side of the head) and exacerbated by normal physical activity. Typical accompanying symptoms include extreme hypersensitivity to light (photophobia), sensitivity to sound (phonophobia), sensitivity to smells (osmophobia), nausea, and vomiting. Approximately 25-30% of sufferers experience an aura prior to headache onset, consisting of transient visual disturbances (zigzag lines, flashing lights, scotomas or blind spots), sensory numbness or tingling in the face and hands, or transient speech difficulty. An untreated migraine episode typically lasts from 4 to 72 hours."
+  },
+  {
+    "Focus": "Migraine",
+    "QType": "treatment",
+    "Source": "NINDS",
+    "Question": "How is Migraine treated?",
+    "Answer": "Migraine therapy is categorized into acute abortive medications taken at headache onset and preventive therapies taken daily. Acute abortive therapies include triptans (sumatriptan, rizatriptan), CGRP receptor antagonists / gepants (rimegepant, ubrogepant), Ditans (lasmiditan), and NSAIDs (naproxen, ibuprofen, combination acetaminophen-aspirin-caffeine). Daily preventive therapies to reduce attack frequency include: beta-blockers (propranolol), antiepileptics (topiramate, valproate), tricyclic antidepressants (amitriptyline), injectable or oral CGRP antagonists (erenumab, fremanezumab), and onabotulinumtoxinA (Botox) injections for chronic migraine."
+  },
+  {
+    "Focus": "Chronic Kidney Disease (CKD)",
+    "QType": "symptoms",
+    "Source": "NIDDK",
+    "Question": "What are the symptoms of Chronic Kidney Disease (CKD)?",
+    "Answer": "Chronic kidney disease (CKD) progresses gradually, and early stages are typically asymptomatic. As renal function deteriorates and toxic waste products and fluid accumulate in the blood (uremia), symptoms manifest. These include: 1) Swelling (edema) in the feet, ankles, legs, hands, and puffiness around the eyes; 2) Persistent fatigue, lethargy, and weakness due to anemia; 3) Changes in urination, such as foamy/bubbly urine, needing to urinate more frequently (especially at night), or decreased urine volume; 4) Nausea, vomiting, metallic taste in the mouth, and loss of appetite; 5) Persistent generalized skin itching (pruritus); 6) Shortness of breath from fluid accumulation in the lungs; and 7) Difficult-to-control high blood pressure."
+  },
+  {
+    "Focus": "Chronic Kidney Disease (CKD)",
+    "QType": "treatment",
+    "Source": "NIDDK",
+    "Question": "How is Chronic Kidney Disease treated?",
+    "Answer": "Treatment of CKD aims to slow the decline in glomerular filtration rate (eGFR) and mitigate cardiovascular complications. Fundamental therapies include: 1) Strict blood pressure control using ACE inhibitors or ARBs, which provide renal protective effects by decreasing intraglomerular pressure and proteinuria; 2) SGLT2 inhibitors (dapagliflozin, empagliflozin) to reduce kidney disease progression and cardiovascular events; 3) Tight glycemic control in diabetic patients; 4) Non-steroidal mineralocorticoid antagonists (finerenone) for diabetic CKD; 5) Dietary protein and sodium restriction; and 6) Managing anemia with erythropoiesis-stimulating agents (ESAs) and iron supplements. In end-stage renal disease (ESRD / Stage 5 CKD), renal replacement therapy via hemodialysis, peritoneal dialysis, or kidney transplantation is required."
+  },
+  {
+    "Focus": "Chronic Obstructive Pulmonary Disease (COPD)",
+    "QType": "symptoms",
+    "Source": "NHLBI",
+    "Question": "What are the symptoms of COPD?",
+    "Answer": "Chronic Obstructive Pulmonary Disease (COPD), which encompasses chronic bronchitis and emphysema, is characterized by persistent progressive airflow limitation. Key clinical symptoms include: 1) Chronic progressive shortness of breath (dyspnea) that worsens with mild physical exertion; 2) A chronic ongoing cough often producing significant amounts of white, yellow, or greenish mucus/phlegm (smoker's cough); 3) Frequent chest infections such as bronchitis or pneumonia; 4) Wheezing and chest tightness; 5) Lack of energy and generalized fatigue; and 6) Weight loss and muscle wasting in advanced stages. Severe exacerbations present with acute respiratory distress, cyanosis (bluish tint to lips/fingers), and confusion."
+  },
+  {
+    "Focus": "Chronic Obstructive Pulmonary Disease (COPD)",
+    "QType": "treatment",
+    "Source": "NHLBI",
+    "Question": "How is COPD treated?",
+    "Answer": "The most critical intervention in COPD management is immediate and complete smoking cessation. Pharmacological therapy utilizes inhaled bronchodilators to relax airway smooth muscle: Long-Acting Beta2-Agonists (LABA, salmeterol, formoterol) and Long-Acting Muscarinic Antagonists (LAMA, tiotropium, umeclidinium). Dual LABA/LAMA inhalers provide potent bronchodilation. In patients with frequent exacerbations or elevated blood eosinophils, triple therapy adding an Inhaled Corticosteroid (ICS) is recommended. Non-pharmacological treatments include pulmonary rehabilitation programs, annual influenza and pneumococcal vaccinations, supplemental long-term oxygen therapy for severe chronic resting hypoxemia, and non-invasive ventilation."
+  },
+  {
+    "Focus": "Gastroesophageal Reflux Disease (GERD / Acid Reflux)",
+    "QType": "symptoms",
+    "Source": "NIDDK",
+    "Question": "What are the symptoms of Gastroesophageal Reflux Disease (GERD)?",
+    "Answer": "Gastroesophageal Reflux Disease (GERD) occurs when stomach acid frequently flows back into the esophagus, irritating the esophageal lining. Cardinal symptoms include: 1) Heartburn (pyrosis), a burning sensation in the chest that often rises toward the throat and worsens after eating, bending over, or lying down; 2) Acid regurgitation, causing a sour or bitter liquid taste in the mouth or throat; 3) Difficulty swallowing (dysphagia); 4) Sensation of a lump in the throat (globus sensation); 5) Chronic dry cough or frequent throat clearing; 6) Laryngitis and hoarseness; and 7) Disrupted nighttime sleep. Persistent chest pain resembling angina requires immediate evaluation to rule out cardiac emergencies."
+  },
+  {
+    "Focus": "Gastroesophageal Reflux Disease (GERD / Acid Reflux)",
+    "QType": "treatment",
+    "Source": "NIDDK",
+    "Question": "How is Gastroesophageal Reflux Disease (GERD) treated?",
+    "Answer": "GERD management combines lifestyle modifications and acid-suppressing pharmacotherapy. Key lifestyle measures include: elevating the head of the bed by 6 inches; waiting at least 3 hours after eating before lying down; losing excess body weight; avoiding trigger foods (caffeine, chocolate, fatty meals, spicy dishes, citrus, tomatoes, alcohol, mint); and avoiding tight clothing around the abdomen. Medications include: 1) Proton Pump Inhibitors (PPIs, such as omeprazole, pantoprazole, esomeprazole), which are the most effective agents for healing reflux esophagitis; 2) H2-receptor antagonists (famotidine); and 3) Antacids (calcium carbonate, magnesium hydroxide) for rapid episodic relief. In cases refractory to medical therapy, laparoscopic Nissen fundoplication or magnetic sphincter augmentation (LINX) may be considered."
+  },
+  {
+    "Focus": "Rheumatoid Arthritis (RA)",
+    "QType": "symptoms",
+    "Source": "NIAMS",
+    "Question": "What are the symptoms of Rheumatoid Arthritis (RA)?",
+    "Answer": "Rheumatoid arthritis is a systemic autoimmune disease primarily affecting the synovium of peripheral joints. Classical symptoms include: 1) Symmetrical joint pain, tenderness, warmth, and swelling typically starting in the small joints of the hands (metacarpophalangeal and proximal interphalangeal joints) and feet (metatarsophalangeal joints); 2) Marked morning joint stiffness lasting longer than 30 to 60 minutes, which gradually eases with physical activity; 3) Chronic generalized fatigue, low-grade fever, and unintentional weight loss; and 4) Systemic manifestations including firm subcutaneous rheumatoid nodules over pressure points (elbows), dry eyes and dry mouth (secondary Sjögren's syndrome), and inflammation of the pleura, pericardium, or blood vessels."
+  },
+  {
+    "Focus": "Rheumatoid Arthritis (RA)",
+    "QType": "treatment",
+    "Source": "NIAMS",
+    "Question": "How is Rheumatoid Arthritis (RA) treated?",
+    "Answer": "Early aggressive treatment using a treat-to-target approach is essential in RA to achieve disease remission and prevent irreversible joint deformities and disability. The cornerstone of therapy is Disease-Modifying Antirheumatic Drugs (DMARDs). First-line conventional synthetic DMARD is oral or subcutaneous methotrexate, often complemented by leflunomide, hydroxychloroquine, or sulfasalazine. When response is inadequate, biologic DMARDs (TNF inhibitors: adalimumab, etanercept; IL-6 inhibitors: tocilizumab; T-cell co-stimulation inhibitors: abatacept; B-cell depleting agents: rituximab) or targeted synthetic DMARDs (JAK inhibitors: tofacitinib, baricitinib, upadacitinib) are added. Low-dose oral corticosteroids (prednisone) and NSAIDs are utilized short-term as bridging therapy for active flares."
+  },
+  {
+    "Focus": "Osteoarthritis (OA)",
+    "QType": "symptoms",
+    "Source": "NIAMS",
+    "Question": "What are the symptoms of Osteoarthritis?",
+    "Answer": "Osteoarthritis is the most common form of arthritis, characterized by the mechanical degeneration of articular cartilage and underlying subchondral bone. Primary symptoms include: 1) Deep aching joint pain that worsens during or after joint movement/weight-bearing and improves with rest; 2) Joint stiffness upon waking or following periods of inactivity that typically resolves within 30 minutes; 3) Joint tenderness when gentle pressure is applied; 4) Decreased range of motion and joint flexibility; 5) A grating, clicking, or cracking sensation (crepitus) during movement; and 6) Formation of hard bony enlargements (osteophytes), such as Heberden's nodes (distal interphalangeal joints) and Bouchard's nodes (proximal interphalangeal joints) in the hands, or swelling in the knees, hips, and spine."
+  },
+  {
+    "Focus": "Osteoarthritis (OA)",
+    "QType": "treatment",
+    "Source": "NIAMS",
+    "Question": "How is Osteoarthritis treated?",
+    "Answer": "Osteoarthritis treatment focuses on symptom alleviation, maintaining physical mobility, and optimizing joint biomechanics. First-line non-pharmacological interventions include low-impact aerobic exercise (swimming, cycling), quadriceps strengthening, physical therapy, weight reduction to alleviate compressive joint load, and assistive devices (canes, orthotic braces). Pharmacological therapy begins with topical NSAIDs (diclofenac gel) for knee and hand OA, followed by oral NSAIDs (celecoxib, naproxen, ibuprofen) prescribed at the lowest effective dose with gastroprotective agents. Intra-articular corticosteroid injections provide short-term pain relief during acute flare-ups. For severe end-stage osteoarthritis with debilitating pain and joint functional failure, total joint arthroplasty (knee or hip replacement surgery) provides substantial pain relief and restorative function."
+  },
+  {
+    "Focus": "Hypothyroidism (Underactive Thyroid)",
+    "QType": "symptoms",
+    "Source": "NIDDK",
+    "Question": "What are the symptoms of Hypothyroidism?",
+    "Answer": "Hypothyroidism occurs when the thyroid gland fails to synthesize adequate thyroid hormone (thyroxine/T4 and triiodothyronine/T3), leading to a systemic slowing of metabolic processes. Classic clinical symptoms develop gradually and include: 1) Persistent fatigue, lethargy, and general weakness; 2) Increased cold intolerance and feeling chilled when others are comfortable; 3) Unexplained modest weight gain and difficulty losing weight; 4) Chronic constipation; 5) Dry, coarse skin and brittle thinning hair; 6) Muscle aches, stiffness, and joint swelling; 7) Bradycardia (slow resting heart rate); 8) Impaired memory, sluggish concentration, and depressive mood ('brain fog'); 9) Puffy face, especially around the eyes; and 10) Heavy, irregular, or prolonged menstrual cycles in women."
+  },
+  {
+    "Focus": "Hypothyroidism (Underactive Thyroid)",
+    "QType": "treatment",
+    "Source": "NIDDK",
+    "Question": "How is Hypothyroidism treated?",
+    "Answer": "The standard clinical treatment for hypothyroidism is daily oral hormone replacement therapy using synthetic levothyroxine (T4). Levothyroxine restores physiological thyroid hormone concentrations, normalizing serum Thyroid Stimulating Hormone (TSH) levels and reversing clinical hypothyroid symptoms. It is taken on an empty stomach with a full glass of water 30 to 60 minutes before breakfast, avoiding co-administration with calcium, iron, or antacids which impede absorption. Serum TSH is evaluated 6 to 8 weeks after therapy initiation or dose adjustments to titrate to the euthyroid reference range (typically 0.5 to 4.5 mIU/L), followed by annual routine monitoring."
+  },
+  {
+    "Focus": "Hyperthyroidism (Overactive Thyroid)",
+    "QType": "symptoms",
+    "Source": "NIDDK",
+    "Question": "What are the symptoms of Hyperthyroidism?",
+    "Answer": "Hyperthyroidism is characterized by excessive synthesis and secretion of thyroid hormones, producing a hypermetabolic clinical state. Core symptoms include: 1) Unintentional rapid weight loss despite normal or increased appetite; 2) Rapid heart rate (tachycardia >100 bpm), forceful heart pounding, or irregular heart rhythms (atrial fibrillation); 3) Heat intolerance and excessive diaphoresis (sweating); 4) Nervousness, anxiety, emotional irritability, and fine resting tremors in the hands and fingers; 5) Muscle weakness, particularly in the proximal thighs and upper arms; 6) Frequent bowel movements or diarrhea; 7) Difficulty falling and staying asleep (insomnia); 8) Oligomenorrhea or amenorrhea (scant or absent menses); and 9) In Graves' disease, thyroid eye disease (Graves' ophthalmopathy) presenting with bulging eyes (proptosis), double vision, and eye irritation."
+  },
+  {
+    "Focus": "Hyperthyroidism (Overactive Thyroid)",
+    "QType": "treatment",
+    "Source": "NIDDK",
+    "Question": "How is Hyperthyroidism treated?",
+    "Answer": "Therapeutic approaches for hyperthyroidism aim to suppress thyroid hormone synthesis and control sympathetic hyperactivation. Antithyroid medications (methimazole, or propylthiouracil in the first trimester of pregnancy) block thyroid peroxidase to inhibit hormone production. Beta-blockers (propranolol, atenolol) are administered promptly to alleviate tachycardia, tremors, heat intolerance, and anxiety. Definitive therapies include Radioactive Iodine (RAI / I-131) ablation, which selectively destroys overactive thyroid follicular cells, or surgical subtotal or total thyroidectomy for patients with large compressive goiters, suspected malignancy, or severe Graves' ophthalmopathy. Post-ablation or thyroidectomy, patients usually require lifelong levothyroxine replacement."
+  },
+  {
+    "Focus": "Influenza (Flu)",
+    "QType": "symptoms",
+    "Source": "CDC",
+    "Question": "What are the symptoms of Influenza (Flu)?",
+    "Answer": "Influenza is an acute respiratory viral infection caused by influenza viruses A and B. Symptoms typically erupt abruptly and include: 1) High fever (often 100°F to 104°F) accompanied by shaking chills; 2) Severe generalized muscle aches (myalgias) and joint stiffness; 3) Profound fatigue and exhaustion that can persist for weeks; 4) Dry, persistent, hacking cough; 5) Sore throat and difficulty swallowing; 6) Moderate-to-severe headache; and 7) Nasal congestion, sneezing, or runny nose. Gastrointestinal symptoms (nausea, vomiting, diarrhea) occur occasionally, especially in young children. Emergency warning signs include dyspnea, persistent chest pain, confusion, severe dizziness, and worsening fever."
+  },
+  {
+    "Focus": "Influenza (Flu)",
+    "QType": "treatment",
+    "Source": "CDC",
+    "Question": "How is Influenza (Flu) treated and prevented?",
+    "Answer": "Most healthy individuals recover from uncomplicated influenza with supportive home care: bed rest, adequate fluid hydration, and over-the-counter antipyretics/analgesics (acetaminophen, ibuprofen) to relieve fever and myalgias (aspirin must be avoided in children due to Reye's syndrome risk). For hospitalized patients, severe cases, or high-risk individuals (elderly, infants, pregnant women, immunocompromised, chronic pulmonary/cardiac illness), prescription antiviral neuraminidase inhibitors (oral oseltamivir / Tamiflu, inhaled zanamivir, intravenous peramivir) or endonuclease inhibitors (baloxavir marboxil) should be initiated within 48 hours of symptom onset to shorten illness duration and prevent secondary bacterial pneumonia. Annual influenza vaccination is the primary preventive measure recommended for all persons aged 6 months and older."
+  },
+  {
+    "Focus": "Pneumonia",
+    "QType": "symptoms",
+    "Source": "NHLBI",
+    "Question": "What are the symptoms of Pneumonia?",
+    "Answer": "Pneumonia is an infection that inflames the air sacs (alveoli) in one or both lungs, causing them to fill with fluid or purulent exudate. Symptoms vary from mild to life-threatening and include: 1) A cough that frequently produces thick mucus, which may be green, yellow, or rust-colored/blood-tinged; 2) High fever, sweating, and shaking chills; 3) Sharp or stabbing chest pain that worsens when breathing deeply or coughing (pleuritic chest pain); 4) Shortness of breath (dyspnea) and rapid, shallow breathing (tachypnea); 5) Extreme fatigue and loss of appetite; 6) Nausea, vomiting, or diarrhea; and 7) In older adults, acute confusion, delirium, or a lower-than-normal body temperature (hypothermia) instead of high fever."
+  },
+  {
+    "Focus": "Pneumonia",
+    "QType": "treatment",
+    "Source": "NHLBI",
+    "Question": "How is Pneumonia treated?",
+    "Answer": "Treatment for pneumonia depends on the causative organism (bacterial, viral, or fungal), disease severity, and patient risk factors. Bacterial community-acquired pneumonia (CAP) is treated empirically with targeted antibiotics: outpatient therapy for healthy adults often utilizes amoxicillin, doxycycline, or a macrolide (azithromycin); outpatients with comorbidities receive combination therapy with a beta-lactam (amoxicillin-clavulanate, cefpodoxime) plus a macrolide, or a respiratory fluoroquinolone (levofloxacin, moxifloxacin). Hospitalized patients receive intravenous antibiotics and supplemental oxygen. Viral pneumonia is managed with supportive care, antipyretics, and antivirals (e.g., oseltamivir for influenza, remdesivir for COVID-19). Prevention relies on pneumococcal polysaccharide/conjugate vaccines and annual flu shots."
+  },
+  {
+    "Focus": "COVID-19 (SARS-CoV-2)",
+    "QType": "symptoms",
+    "Source": "CDC",
+    "Question": "What are the symptoms of COVID-19?",
+    "Answer": "COVID-19 is a contagious respiratory illness caused by the SARS-CoV-2 coronavirus. Symptoms typically appear 2 to 14 days following exposure and range from mild discomfort to severe acute respiratory distress syndrome (ARDS). Recognized symptoms include: fever or chills, persistent cough, shortness of breath or difficulty breathing, profound fatigue, muscle or body aches, headache, new loss of taste (ageusia) or smell (anosmia), sore throat, nasal congestion or rhinorrhea, nausea or vomiting, and diarrhea. Emergency warning signs requiring immediate emergency medical care include trouble breathing, persistent pain or pressure in the chest, new confusion, inability to wake or stay awake, and pale, gray, or blue-colored skin, lips, or nail beds (cyanosis)."
+  },
+  {
+    "Focus": "COVID-19 (SARS-CoV-2)",
+    "QType": "treatment",
+    "Source": "CDC",
+    "Question": "How is COVID-19 treated?",
+    "Answer": "For mild-to-moderate COVID-19 in patients at high risk of progressing to severe disease, authorized oral antiviral medications should be started as soon as possible after diagnosis and within 5 days of symptom onset. The preferred first-line outpatient oral antiviral is ritonavir-boosted nirmatrelvir (Paxlovid); alternative options include intravenous remdesivir (within 7 days) or oral molnupiravir. Supportive care includes hydration, antipyretics, and monitoring oxygen saturation with a pulse oximeter. Hospitalized patients requiring supplemental oxygen receive dexamethasone (corticosteroid), remdesivir, and immunomodulators (baricitinib, tocilizumab) for systemic hyperinflammation. Prevention relies on updated mRNA COVID-19 vaccination, ventilation, and masking in high-transmission settings."
+  },
+  {
+    "Focus": "Iron Deficiency Anemia",
+    "QType": "symptoms",
+    "Source": "NHLBI",
+    "Question": "What are the symptoms of Iron Deficiency Anemia?",
+    "Answer": "Iron deficiency anemia occurs when the body lacks sufficient iron to produce hemoglobin, impairing oxygen delivery to tissues. Signs and symptoms include: 1) Extreme, debilitating fatigue and general lack of energy; 2) Pale or sallow skin, pale conjunctiva inside the lower eyelids, and pale nail beds; 3) Weakness and lightheadedness; 4) Shortness of breath or chest pain, especially during routine physical exertion; 5) Cold hands and feet; 6) Brittle nails or spoon-shaped depressions in the nails (koilonychia); 7) Smooth, sore, or swollen tongue (glossitis); 8) Cracks at the corners of the mouth (angular cheilitis); 9) Restless legs syndrome; and 10) Pica, an unusual craving for non-nutritive substances such as ice, dirt, clay, or cornstarch."
+  },
+  {
+    "Focus": "Iron Deficiency Anemia",
+    "QType": "treatment",
+    "Source": "NHLBI",
+    "Question": "How is Iron Deficiency Anemia treated?",
+    "Answer": "Treatment involves identifying and correcting the underlying cause of iron loss (such as heavy menstrual bleeding, gastrointestinal bleeding from ulcers, polyps, or celiac disease) and replenishing iron stores. Oral iron supplementation with ferrous sulfate, ferrous gluconate, or ferrous fumarate is typically prescribed, taken with vitamin C (ascorbic acid) to enhance intestinal absorption and avoiding milk, calcium, tea, or antacids near dosing. For patients intolerant to oral iron due to gastrointestinal adverse effects (nausea, constipation, dark stools) or with severe malabsorption, intravenous iron infusions (ferric carboxymaltose, iron sucrose) rapidly replenish iron deficit."
+  },
+  {
+    "Focus": "Depression (Major Depressive Disorder)",
+    "QType": "symptoms",
+    "Source": "NIMH",
+    "Question": "What are the symptoms of Depression (Major Depressive Disorder)?",
+    "Answer": "Major Depressive Disorder (MDD) is a mood disorder characterized by persistent feelings of sadness, emptiness, hopelessness, and loss of interest or pleasure in nearly all activities (anhedonia) lasting for at least two consecutive weeks. Associated symptoms include: 1) Significant changes in appetite and unintended weight loss or weight gain; 2) Sleep disturbances, including insomnia (especially early morning awakening) or excessive sleeping (hypersomnia); 3) Psychomotor agitation (restlessness) or psychomotor retardation (slowed speech and body movements); 4) Severe daily fatigue and loss of energy; 5) Feelings of worthlessness or excessive, inappropriate guilt; 6) Diminished ability to think, concentrate, or make decisions; and 7) Recurrent thoughts of death, suicidal ideation, or suicide attempts. Anyone in emotional crisis or experiencing suicidal thoughts should contact emergency services or the Suicide & Crisis Lifeline (988)."
+  },
+  {
+    "Focus": "Depression (Major Depressive Disorder)",
+    "QType": "treatment",
+    "Source": "NIMH",
+    "Question": "How is Depression treated?",
+    "Answer": "Depression is effectively managed through evidence-based psychotherapy, pharmacological medications, and lifestyle interventions. First-line medications include Selective Serotonin Reuptake Inhibitors (SSRIs: escitalopram, sertraline, fluoxetine) and Serotonin-Norepinephrine Reuptake Inhibitors (SNRIs: duloxetine, venlafaxine); other options include bupropion (NDRI) and mirtazapine. Antidepressants typically require 4 to 8 weeks for therapeutic benefits. Evidence-based psychotherapies include Cognitive Behavioral Therapy (CBT), Interpersonal Psychotherapy (IPT), and Acceptance and Commitment Therapy (ACT). Regular aerobic exercise, adequate sleep hygiene, social support, and mindfulness enhance recovery. In treatment-resistant severe depression, neurostimulation modalities such as Transcranial Magnetic Stimulation (TMS), esketamine nasal spray, and Electroconvulsive Therapy (ECT) offer high efficacy."
+  },
+  {
+    "Focus": "Anxiety (Generalized Anxiety Disorder - GAD)",
+    "QType": "symptoms",
+    "Source": "NIMH",
+    "Question": "What are the symptoms of Generalized Anxiety Disorder (GAD)?",
+    "Answer": "Generalized Anxiety Disorder (GAD) involves persistent, excessive, unrealistic worry and apprehension about everyday activities (work, health, family, finances) occurring on more days than not for at least six months. Core physical and emotional symptoms include: 1) Restlessness, feeling keyed up, nervous, or on edge; 2) Becoming easily fatigued; 3) Difficulty concentrating or mind going blank; 4) Irritability; 5) Muscle tension, chronic aching, or trembling; 6) Sleep disturbances (difficulty falling or staying asleep, restless unrefreshing sleep); and 7) Autonomic symptoms including palpitations, sweating, shortness of breath, trembling, dry mouth, nausea, and frequent urination."
+  },
+  {
+    "Focus": "Anxiety (Generalized Anxiety Disorder - GAD)",
+    "QType": "treatment",
+    "Source": "NIMH",
+    "Question": "How is Generalized Anxiety Disorder (GAD) treated?",
+    "Answer": "Treatment for GAD encompasses psychotherapy, pharmacotherapy, and behavioral strategies. Cognitive Behavioral Therapy (CBT) is the gold-standard psychotherapy, teaching patients to identify and restructure distorted catastrophic thought patterns and develop healthy cognitive coping mechanisms. First-line medications are SSRIs (escitalopram, sertraline) and SNRIs (venlafaxine, duloxetine). Buspirone is an effective non-benzodiazepine anxiolytic for long-term management without sedation or addiction risk. Short-term benzodiazepines (lorazepam, clonazepam) are strictly reserved for acute severe distress due to tolerance and dependence risks. Lifestyle interventions including aerobic exercise, sleep optimization, reducing caffeine, and diaphragmatic breathing provide meaningful relief."
+  },
+  {
+    "Focus": "Atrial Fibrillation (AFib)",
+    "QType": "symptoms",
+    "Source": "NHLBI",
+    "Question": "What are the symptoms of Atrial Fibrillation?",
+    "Answer": "Atrial fibrillation (AFib) is a supraventricular cardiac arrhythmia characterized by rapid, disorganized, irregular electrical signals causing the heart's upper chambers (atria) to quiver instead of contracting effectively. Some individuals with AFib are asymptomatic ('silent AFib'). When symptoms occur, they include: 1) Heart palpitations—sensations of a racing, thumping, fluttering, or irregularly irregular heartbeat; 2) Extreme fatigue and reduced exercise capacity; 3) Dizziness, lightheadedness, or faintness (near-syncope); 4) Shortness of breath during exertion or at rest; and 5) Chest discomfort, pressure, or tightness. Because chaotic atrial flow predisposes to intracardiac thrombus formation, AFib elevates the risk of ischemic stroke five-fold."
+  },
+  {
+    "Focus": "Atrial Fibrillation (AFib)",
+    "QType": "treatment",
+    "Source": "NHLBI",
+    "Question": "How is Atrial Fibrillation treated?",
+    "Answer": "AFib management centers on three clinical goals: stroke prevention, ventricular rate control, and rhythm control. Stroke prevention relies on chronic systemic anticoagulation with Direct Oral Anticoagulants (DOACs: apixaban, rivaroxaban, dabigatran) or warfarin guided by the CHA2DS2-VASc risk score. Rate control slows excessive ventricular response using beta-blockers (metoprolol, atenolol) or nondihydropyridine calcium channel blockers (diltiazem, verapamil). Rhythm control restores sinus rhythm using electrical or pharmacological cardioversion (amiodarone, flecainide, propafenone) or catheter ablation (pulmonary vein isolation) to electrically isolate arrhythmogenic triggers in the left atrium."
+  },
+  {
+    "Focus": "Deep Vein Thrombosis and Pulmonary Embolism (DVT / PE)",
+    "QType": "symptoms",
+    "Source": "CDC",
+    "Question": "What are the symptoms of Deep Vein Thrombosis (DVT) and Pulmonary Embolism (PE)?",
+    "Answer": "Deep Vein Thrombosis (DVT) occurs when a blood clot forms in a deep vein, most commonly in the calf or thigh. Symptoms typically affect one leg (unilateral) and include: swelling of the leg, calf, or ankle; localized cramping or aching pain that often worsens when walking or standing; warmth over the affected area; and visible erythema or skin discoloration. If a piece of the venous clot dislodges and travels to the lungs, it causes a life-threatening Pulmonary Embolism (PE). PE symptoms erupt suddenly and include: acute severe shortness of breath, sharp pleuritic chest pain that worsens with deep inhalation, sudden unexplained cough (sometimes coughing up pink blood-tinged sputum), tachycardia, lightheadedness, and syncope (fainting). A suspected PE requires immediate 911 emergency medical intervention."
+  },
+  {
+    "Focus": "Deep Vein Thrombosis and Pulmonary Embolism (DVT / PE)",
+    "QType": "treatment",
+    "Source": "CDC",
+    "Question": "How are DVT and Pulmonary Embolism treated?",
+    "Answer": "Anticoagulation therapy is the primary treatment for venous thromboembolism (VTE: DVT and PE) to prevent clot extension, prevent pulmonary embolization, and lower the recurrence risk. Initial and long-term therapy commonly utilizes Direct Oral Anticoagulants (DOACs: apixaban, rivaroxaban) or low-molecular-weight heparin (enoxaparin) bridging to warfarin. Anticoagulation is typically maintained for a minimum of 3 to 6 months for provoked clots, or indefinitely for unprovoked or recurrent VTE. In massive life-threatening PE with hemodynamic shock or severe hypotension, systemic thrombolytic therapy (alteplase / tPA) or catheter-directed catheter embolectomy is performed. For patients with active bleeding contraindicating anticoagulation, an inferior vena cava (IVC) filter may be placed temporarily."
+  },
+  {
+    "Focus": "Virus (Viral Infections)",
+    "QType": "overview",
+    "Source": "NIAID / CDC",
+    "Question": "What is a virus?",
+    "Answer": "A virus is a microscopic infectious agent composed of genetic material (either DNA or RNA) enclosed within a protein coat called a capsid, and in some cases an outer lipid envelope. Unlike bacteria, viruses cannot reproduce or carry out metabolic processes on their own; they must invade a living host cell and hijack its cellular machinery to replicate. Viruses cause a wide range of human illnesses, from mild respiratory infections like the common cold and influenza to COVID-19, dengue, hepatitis, and HIV/AIDS. Because viruses lack bacterial cell walls and ribosomes, antibiotics are completely ineffective against viral infections."
+  },
+  {
+    "Focus": "Virus (Viral Infections)",
+    "QType": "symptoms",
+    "Source": "CDC",
+    "Question": "What are the symptoms of a viral infection?",
+    "Answer": "Symptoms of a viral infection depend on the specific virus and the tissues it targets, but common systemic signs include fever, fatigue, body aches (myalgia), headache, and swollen lymph nodes. Respiratory viruses (such as influenza, rhinovirus, or SARS-CoV-2) frequently cause cough, sore throat, nasal congestion, and shortness of breath. Gastrointestinal viruses (such as norovirus or rotavirus) cause nausea, vomiting, abdominal cramps, and watery diarrhea, while other viruses may cause skin rashes, jaundice, or neurological symptoms."
+  },
+  {
+    "Focus": "Virus (Viral Infections)",
+    "QType": "treatment",
+    "Source": "NIAID / CDC",
+    "Question": "How are viral infections treated and prevented?",
+    "Answer": "Most mild viral infections are self-limiting and managed with supportive care, including rest, oral hydration, and over-the-counter antipyretics or analgesics (acetaminophen or ibuprofen) to relieve fever and discomfort. Specific viral illnesses can be treated with targeted antiviral medications—such as oseltamivir for influenza, acyclovir for herpesviruses, nirmatrelvir/ritonavir for COVID-19, or antiretroviral therapy (ART) for HIV. Antibiotics do not treat viruses. Vaccination is the most effective primary prevention against many serious viral diseases, complemented by hand hygiene and respiratory etiquette."
+  },
+  {
+    "Focus": "Bacteria (Bacterial Infections)",
+    "QType": "overview",
+    "Source": "NIAID / CDC",
+    "Question": "What is bacteria?",
+    "Answer": "Bacteria are single-celled, microscopic living organisms (prokaryotes) that can survive and reproduce independently in diverse environments, including inside the human body. Most bacteria are harmless or beneficial—such as gut microbiota that aid digestion and synthesize vitamins—while pathogenic bacteria cause infections like strep throat, urinary tract infections, bacterial pneumonia, tuberculosis, cholera, and typhoid fever. Unlike viral infections, bacterial infections are treated with targeted antibiotics (such as penicillins, cephalosporins, macrolides, or fluoroquinolones) prescribed by a clinician; completing the full prescribed course helps prevent antibiotic resistance."
+  },
+  {
+    "Focus": "Infection (Infectious Diseases)",
+    "QType": "overview",
+    "Source": "CDC",
+    "Question": "What is an infection?",
+    "Answer": "An infection occurs when harmful microorganisms—such as viruses, bacteria, fungi, or parasites—enter the body, multiply, and trigger a host immune response or tissue damage. Infections can spread through respiratory droplets, direct contact, contaminated food or water, insect vectors (such as mosquitoes carrying malaria or dengue), or bloodborne exposure. Clinical signs often include fever, localized redness, swelling, warmth, pain, or systemic fatigue. Prevention relies on handwashing, safe food and water handling, vaccination, and appropriate antimicrobial stewardship."
+  },
+  {
+    "Focus": "Fever (Pyrexia)",
+    "QType": "overview",
+    "Source": "MedlinePlus / NIH",
+    "Question": "What is a fever and how is it managed?",
+    "Answer": "A fever (pyrexia) is a temporary elevation in body temperature—typically defined as 100.4°F (38.0°C) or higher—regulated by the hypothalamus as part of the immune system's defense against viral or bacterial infections and inflammation. Accompanying symptoms often include chills, sweating, headache, muscle aches, and fatigue. Management focuses on treating the underlying cause, maintaining adequate fluid intake, resting, and using antipyretic medications such as acetaminophen or ibuprofen when needed for comfort. Immediate medical evaluation is warranted for very high fever, stiff neck, confusion, difficulty breathing, or fever in infants under 3 months."
+  },
+  {
+    "Focus": "Inflammation",
+    "QType": "overview",
+    "Source": "NIH / NIGMS",
+    "Question": "What is inflammation?",
+    "Answer": "Inflammation is the immune system's natural biological response to injury, infection, toxins, or cellular damage. Acute inflammation is a short-term protective process characterized by five classic signs: redness (rubor), heat (calor), swelling (tumor), pain (dolor), and loss of function, as immune cells and blood flow increase to clear pathogens and initiate tissue repair. Chronic inflammation occurs when this response persists over months or years, contributing to conditions such as rheumatoid arthritis, asthma, inflammatory bowel disease, and cardiovascular disease."
+  },
+  {
+    "Focus": "Immunity and Vaccines",
+    "QType": "overview",
+    "Source": "CDC / NIAID",
+    "Question": "What is immunity and how do vaccines work?",
+    "Answer": "Immunity is the body's ability to recognize and defend against specific pathogens such as viruses and bacteria. Innate immunity provides immediate, non-specific barriers and cellular defenses, while adaptive immunity builds targeted antibodies and memory T and B cells after natural infection or vaccination. Vaccines safely train the adaptive immune system using weakened, inactivated, protein-subunit, or mRNA antigens so the body can mount a rapid, protective response upon future exposure without suffering the severe risks of primary disease."
+  }
+]
